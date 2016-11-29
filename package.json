@@ -1,0 +1,26 @@
+{
+  "name": "hyper-p1xelher0",
+  "version": "0.1.0",
+  "description": "A p1xelHer0 theme for hyper.",
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "theme",
+    "p1xelHer0",
+    "brown",
+    "turquoise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1xelHer0/hyper-p1xelher0.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Pontus Nagy",
+	  "email": "pontusnagy@gmail.com"
+  },
+  "license": "ISC"
+}
