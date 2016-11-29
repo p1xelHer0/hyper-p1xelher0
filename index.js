@@ -1,10 +1,11 @@
 exports.decorateConfig = (config) => Object.assign({}, config,
   {
     foregroundColor: '#cbbca7', // beige
-    backgroundColor: '#332f28', // brown
+    backgroundColor: '#332f28', // very dark brown
+    borderColor:     '#433d35', // dark brown
     cursorColor:     '#bdaae7', // purple
     colors: {
-      black:         '#332f28', // brown
+      black:         '#60584c', // brown
       red:           '#d25552', // red
       yellow:        '#fca465', // orange
       green:         '#a1bf7e', // green
@@ -12,7 +13,7 @@ exports.decorateConfig = (config) => Object.assign({}, config,
       blue:          '#80bbd7', // blue
       magenta:       '#bdaae7', // purple
       white:         '#cbbca7', // beige
-      lightBlack:    '#332f28',
+      lightBlack:    '#60584c',
       lightRed:      '#d25552',
       lightYellow:   '#fca465',
       lightGreen:    '#a1bf7e',
